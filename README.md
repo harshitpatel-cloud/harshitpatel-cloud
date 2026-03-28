@@ -2,8 +2,6 @@
 
 I am an engineering undergraduate student interested in **Data Science and Analytics**. I enjoy  discovering patterns and extracting insights from data.
 
-Currently, I am building my foundation through the **IBM Data Science Professional Certificate**.
-
 ## 🛠️ Skills & Tools
 
 **Languages:** Python, SQL, R (basic)
